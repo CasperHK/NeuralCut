@@ -1,4 +1,4 @@
-# ⚡ NeuralCut
+# ⚡ NeuralCut 影智快剪
 
 NeuralCut 是一款專為現代影音創作者打造的**極速、輕量級本地端 AI 整合影片編輯器**。
 
